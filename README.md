@@ -1,2 +1,2 @@
 # git-sample
-this si mr guan
+this is a test two.
